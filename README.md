@@ -7,7 +7,7 @@ Fullscreen select menu with search\
 ![](https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image1.jpg)
 
 Autocomplete for dynamic search\
-![](https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image1.jpg)
+![](https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image.jpg)
 
 ## Dropdown props
 Below are the newly added/modified props for the components
