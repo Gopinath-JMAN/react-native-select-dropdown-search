@@ -1,5 +1,7 @@
 # react-native-select-dropdown-search
 
+![alt text](https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image.png)
+
 This package is an modified version of Hoa Phan's https://github.com/hoaphantn7604/react-native-element-dropdown
 
 ## Features
