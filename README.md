@@ -1,8 +1,9 @@
 # react-native-select-dropdown-search
 
-Autocomplete             |  Fulscreen select
-:-------------------------:|:-------------------------:
-![](https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image.jpg)  |  ![](https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image1.jpg)
+<p float="left">
+  <img src="https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image.jpg" width="100" />
+  <img src="https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image1.jpg" width="100" /> 
+</p>
 
 This package is an modified version of Hoa Phan's https://github.com/hoaphantn7604/react-native-element-dropdown
 
