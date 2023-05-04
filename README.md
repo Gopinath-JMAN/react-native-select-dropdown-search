@@ -1,16 +1,13 @@
 # react-native-select-dropdown-search
 
-<p float="left">
-  Autocomplete select
-  <img src="https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image.jpg" width="250" />
-  <img src="https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image1.jpg" width="250" /> 
-</p>
-
 This package is an modified version of Hoa Phan's https://github.com/hoaphantn7604/react-native-element-dropdown
 
 ## Features
 Fullscreen select menu with search\
-Autocomplete for dynamic search
+https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image1.jpg
+
+Autocomplete for dynamic search\
+https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image.jpg
 
 ## Dropdown props
 Below are the newly added/modified props for the components
