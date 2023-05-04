@@ -3,11 +3,11 @@
 This package is an modified version of Hoa Phan's https://github.com/hoaphantn7604/react-native-element-dropdown
 
 ## Features
-Fullscreen select menu with search\
-![](https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image.jpg)
 
-Autocomplete for dynamic search\
-![](https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image1.jpg)
+Fullscreen select menu with search             |  Autocomplete for dynamic search
+:-------------------------:|:-------------------------:
+![](https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image.jpg)  |  ![](https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image1.jpg)
+
 
 ## Dropdown props
 Below are the newly added/modified props for the components
