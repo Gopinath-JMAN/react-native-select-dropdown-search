@@ -4,10 +4,10 @@ This package is an modified version of Hoa Phan's https://github.com/hoaphantn76
 
 ## Features
 Fullscreen select menu with search\
-https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image1.jpg
+![](https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image1.jpg)
 
 Autocomplete for dynamic search\
-https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image.jpg
+![](https://github.com/Gopinath-JMAN/files/blob/main/MicrosoftTeams-image1.jpg)
 
 ## Dropdown props
 Below are the newly added/modified props for the components
